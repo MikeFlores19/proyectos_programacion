@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1696999498 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos_busqueda\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"ALGORITMOS_BUSQUEDA.h"
+
+1696996446 c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos_busqueda\algoritmos_busqueda.h
+
+1696996445 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos_busqueda\algoritmos_busqueda.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"ALGORITMOS_BUSQUEDA.h"
+
+1697030132 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_03_algoritmos_busqueda\algoritmos_busqueda.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"ALGORITMOS_BUSQUEDA.h"
+
+1696996446 c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_03_algoritmos_busqueda\algoritmos_busqueda.h
+
+1697217684 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_03_algoritmos_busqueda\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"ALGORITMOS_BUSQUEDA.h"
+
