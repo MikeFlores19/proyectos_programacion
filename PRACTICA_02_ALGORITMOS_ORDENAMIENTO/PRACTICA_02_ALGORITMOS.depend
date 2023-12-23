@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695085642 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos\algoritmos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ALGORITMOS.h"
+
+1696050113 c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos\algoritmos.h
+
+1695085796 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\practica_02_algoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ALGORITMOS.h"
+
