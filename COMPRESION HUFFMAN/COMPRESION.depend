@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1703179549 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\compresion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703362491 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\compresion huffman\funciones.c
+
+1703362502 source:c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\compresion huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FUNCIONES.h"
+
+1703362491 c:\users\magic mike\onedrive\documentos\tareas ipn 2do semestre\algoritmos y estructura de datos\compresion huffman\funciones.h
+
