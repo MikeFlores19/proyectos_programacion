@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1706128811 source:c:\users\magic mike\onedrive\escritorio\quicksort & binary search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1706128637 c:\users\magic mike\onedrive\escritorio\quicksort & binary search\funciones.h
+
+1706129053 source:c:\users\magic mike\onedrive\escritorio\quicksort & binary search\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
